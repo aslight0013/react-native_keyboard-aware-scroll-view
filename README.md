@@ -209,8 +209,7 @@ The available config options are:
 
 MIT.
 
-## Author
-
-Álvaro Medina Ballester `<amedina at apsl.net>`
+## Owner
+Artur S
 
 Built with 💛 by [APSL](https://github.com/apsl).
